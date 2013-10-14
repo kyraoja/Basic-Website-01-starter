@@ -1,5 +1,31 @@
 /* Main Navigation */
 
+.container_12 {
+	background: url("../img/woodgrain.png");
+}
+
+#aside-1{
+	background: green;
+}
+
+#aside-2{
+	background:white;
+}
+
+#main{
+	background: rgba(255,255,255,.5);
+}
+
+/*logo*/
+img{
+	border:10px solid #000;
+	border-radius: 100px;
+	box-shadow: 10px 10px 10px #f0f, -10px -10px 10px #f03;
+	padding: 10px;
+	margin: 10px;
+}
+
+
 li {
   background: #ffd500;
   display: inline;
